@@ -1,0 +1,1 @@
+console.log('Hello, this is my first JS file to push to git');
